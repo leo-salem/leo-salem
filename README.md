@@ -61,5 +61,5 @@
 - 🎓 Third Year Computer Science Student at *Menofia University*  
 - 🔭 Have a Strong knowledge at OOP Principles and Data Structures and Algorithms  
 - ⚡ Competitive Programming Enthusiast And Solved 1000+ Problem (Codeforces, VJudge and other Websites)  
-- ☕ Java Specialist and Have Spring Boot Experience  
+- ☕ Java Specialist and Have Some Experience At Spring Boot Framework 
 - 🛠️ Enjoy Building robust academic and personal projects  
