@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub!  
 
 <p align="center">
-  <img src="https://www.shutterstock.com/image-illustration/childs-head-face-silhouette-profile-260nw-2389081999.jpg" alt="Profile Banner" width="200">
+  <img src="https://www.shutterstock.com/image-illustration/childs-head-face-silhouette-profile-260nw-2389081999.jpg" alt="Profile Banner" width="100">
 </p>
 
 <p align="center">
@@ -43,9 +43,9 @@
 </p>
 
 *Currently learning:*
-- 🧠 Backend Fundamentals And Development
-- ⚙️ ASP.Net Framework
-- 🗃️ Database Architecture & Optimization
+- 🧠 Backend Fundamentals And Development  
+- ⚙️ ASP.Net Framework  
+- 🗃️ Database Architecture & Optimization  
 
 ---
 
