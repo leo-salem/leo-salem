@@ -24,12 +24,6 @@
   <a href="https://www.linkedin.com/in/mohamed-salem-8491362a0/" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn" height="40">
   </a>
-  <a href="https://www.instagram.com/ma7amad_salem/" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30" alt="Instagram" height="40">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100053957690781" target="_blank" style="margin: 0 15px;">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30" alt="Facebook" height="40">
-  </a>
   <a href="https://codeforces.com/profile/Leo_Salem" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=30" alt="Codeforces" height="40">
   </a>
@@ -47,13 +41,6 @@
 - ⚙️ ASP.Net Framework  
 - 🗃️ Database Architecture & Optimization  
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leo-salem&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leo-salem&theme=radical&hide_border=true" width="48%">
-</p>
 
 ---
 
