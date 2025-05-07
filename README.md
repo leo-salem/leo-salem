@@ -1,10 +1,6 @@
 # 👋 Welcome to My GitHub!  
 
 <p align="center">
-  <img src="https://www.shutterstock.com/image-illustration/childs-head-face-silhouette-profile-260nw-2389081999.jpg" alt="Profile Banner" width="100">
-</p>
-
-<p align="center">
   <a href="https://github.com/leo-salem">
     <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&center=true&vCenter=true&width=600&height=50&lines=Mohamed+Salem's+Digital+Space;CS+Student+%7C+Menofia+University;Passionate+Coder+%7C+Competitive+Programmer;Turning+Algorithms+Into+Solutions">
   </a>
