@@ -23,7 +23,7 @@
   <a href="https://codeforces.com/profile/Leo_Salem" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&logoWidth=30" alt="Codeforces" height="40">
   </a>
-  <a href="mailto:mohamed01280368366@gmail.com" target="_blank" style="margin: 0 15px;">
+  <a href="https://mail.google.com/mail/?view=cm&to=mohamed01280368366@gamil.com" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Gmail" height="40">
   </a>
 </p>
@@ -48,4 +48,4 @@
 - 🔭 Have a Strong knowledge at OOP Principles and Data Structures and Algorithms  
 - ⚡ Competitive Programming Enthusiast And Solved 1000+ Problem (Codeforces, VJudge and other Websites)  
 - ☕ Java Specialist Lover and passionate  
-- 🛠️ Enjoy Building robust academic and personal projects  
+- 🛠️ Enjoy Building robust academic and personal projects
