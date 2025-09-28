@@ -37,15 +37,15 @@
 
 *Currently learning:*
 - 🧠 Backend Fundamentals And Development  
-- ⚙️ Spring boot Framework  
+- ⚙️ Microservices software architectural style  
 - 🗃️ Database Architecture & Optimization  
 
 
 ---
 
 💡 *Currently:*  
-- 🎓 Third Year Computer Science Student at *Menofia University*  
-- 🔭 Have a Strong knowledge at OOP Principles and Data Structures and Algorithms  
-- ⚡ Competitive Programming Enthusiast And Solved 1000+ Problem (Codeforces, VJudge and other Websites)  
-- ☕ Java Specialist Lover and passionate  
+- ☕ Java Backend Developer 
+- 🎓 Fourth Year Computer Science Student at *Menofia University*  
+- 🔭 Have a Strong knowledge at Spring Boot Framework ,OOP Principles, Data Structures and Algorithms  
+- ⚡ Competitive Programming Enthusiast And Solved 1000+ Problem (Codeforces, VJudge and other Websites)   
 - 🛠️ Enjoy Building robust academic and personal projects
