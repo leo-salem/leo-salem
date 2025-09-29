@@ -1,14 +1,4 @@
-# 👋 Welcome to My GitHub!  
-
-<p align="center">
-  <a href="https://github.com/leo-salem">
-    <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&center=true&vCenter=true&width=600&height=50&lines=Mohamed+Salem's+Digital+Space;CS+Student+%7C+Menofia+University;Passionate+Coder+%7C+Competitive+Programmer;Turning+Algorithms+Into+Solutions">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leo-salem&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views">
-</p>
+# 👋 Welcome to Leo_Salem GitHub!  
 
 ---
 
@@ -30,22 +20,17 @@
 
 ---
 
-## 🛠️ Tech Stack  
-<p align="center" style="margin: 25px 0;">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,csharp,spring,html,css,mysql,git,github,docker,vscode&perline=6&size=50" alt="Tech Stack" style="margin: 0 10px;">
-</p>
+💡 *I'm:*  
+- ☕ Java Backend Developer 
+- 🎓 Fourth Year Computer Science Student at *Menofia University*
+- ⚡ Competitive Programming Enthusiast And Solved 1000+ Problem (Codeforces, VJudge and other Websites)
+- 🔭 Have a Strong knowledge at Spring Boot Framework ,OOP Principles, Data Structures and Algorithms     
+- 🛠️ Enjoy Building robust academic and personal projects
+- 
+---
 
 *Currently learning:*
 - 🧠 Backend Fundamentals And Development  
 - ⚙️ Microservices software architectural style  
 - 🗃️ Database Architecture & Optimization  
 
-
----
-
-💡 *Currently:*  
-- ☕ Java Backend Developer 
-- 🎓 Fourth Year Computer Science Student at *Menofia University*  
-- 🔭 Have a Strong knowledge at Spring Boot Framework ,OOP Principles, Data Structures and Algorithms  
-- ⚡ Competitive Programming Enthusiast And Solved 1000+ Problem (Codeforces, VJudge and other Websites)   
-- 🛠️ Enjoy Building robust academic and personal projects
