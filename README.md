@@ -1,8 +1,8 @@
-# 👋 Welcome to Leo_Salem GitHub!  
+# Welcome to My GitHub 
 
----
 
-## 🌍 Connect with Me  
+
+##  Connect with Me  
 <p align="center" style="margin: 20px 0;">
   <a href="https://x.com/ma7amad_salem" target="_blank" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=30" alt="Twitter" height="40">
@@ -21,16 +21,16 @@
 ---
 
 💡 *I'm:*  
-- ☕ Java Backend Developer 
-- 🎓 Fourth Year Computer Science Student at *Menofia University*
-- ⚡ Competitive Programming Enthusiast And Solved 1000+ Problem (Codeforces, VJudge and other Websites)
-- 🔭 Have a Strong knowledge at Spring Boot Framework ,OOP Principles, Data Structures and Algorithms     
-- 🛠️ Enjoy Building robust academic and personal projects
+-  Java Backend Developer 
+-  Fourth Year Computer Science Student at *Menofia University*
+-  Competitive Programming Enthusiast And Solved 1000+ Problem (Codeforces, VJudge and other Websites)
+-  Having a Strong knowledge at Spring Boot Framework ,OOP Principles, Data Structures and Algorithms     
+-  Enjoing Building robust academic and personal projects
 - 
 ---
 
 *Currently learning:*
-- 🧠 Backend Fundamentals And Development  
-- ⚙️ Microservices software architectural style  
-- 🗃️ Database Architecture & Optimization  
+-  Backend Fundamentals And Development  
+-  Microservices software architectural style  
+-  Database Architecture & Optimization  
 
