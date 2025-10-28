@@ -20,7 +20,7 @@
 
 ---
 
-💡 *I'm:*  
+ *I'm:*  
 -  Java Backend Developer 
 -  Fourth Year Computer Science Student at *Menofia University*
 -  Competitive Programming Enthusiast And Solved 1000+ Problem (Codeforces, VJudge and other Websites)
