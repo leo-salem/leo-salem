@@ -22,7 +22,7 @@
 
  *I'm:*  
 -  Java Backend Developer 
--  Fourth Year Computer Science Student at *Menofia University*
+-  Senior year Computer Science Student at *Menofia University*
 -  Competitive Programming Enthusiast And Solved 1000+ Problem (Codeforces, VJudge and other Websites)
 -  Having a Strong knowledge at Spring Boot Framework ,OOP Principles, Data Structures and Algorithms     
 -  Enjoing Building robust academic and personal projects
